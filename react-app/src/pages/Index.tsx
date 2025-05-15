@@ -60,7 +60,7 @@ const Index = () => {
                 Plan Your Next Hangout! 
               </h1>
               <p className="text-girly-purple-dark/80 mb-4">
-                Create events, coordinate with your friends, and share your cute outfits all in one place!
+                Create events, coordinate with your friends and share your cute outfits all in one place!
               </p>
               <Button 
                 onClick={() => setCreateDialogOpen(true)}
