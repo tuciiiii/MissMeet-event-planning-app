@@ -28,7 +28,7 @@ const Navigation = () => {
       <div className="container mx-auto flex items-center justify-between">
         <Link to="/" className="flex items-center">
           <span className="text-2xl font-display font-bold bg-gradient-to-r from-girly-pink-dark to-girly-purple bg-clip-text text-transparent">
-            GirlHangout
+            MissMeet
           </span>
         </Link>
 

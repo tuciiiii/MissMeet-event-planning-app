@@ -49,7 +49,7 @@ const mockNotifications: Notification[] = [
   {
     id: 'n4',
     type: 'friend',
-    message: 'Isabella is now using GirlHangout',
+    message: 'Isabella is now using MissMeet',
     time: '1 day ago',
     read: true,
     data: { userId: 'u4' }
